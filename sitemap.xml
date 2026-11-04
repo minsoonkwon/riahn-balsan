@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://riahn-balsan.kr/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/"/>
@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://riahn-balsan.kr/en/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/"/>
@@ -23,7 +23,7 @@
   </url>
   <url>
     <loc>https://riahn-balsan.kr/ja/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/"/>
@@ -33,7 +33,7 @@
   </url>
   <url>
     <loc>https://riahn-balsan.kr/zh/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/"/>
@@ -163,7 +163,7 @@
   </url>
   <url>
     <loc>https://riahn-balsan.kr/clinic/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/clinic/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/clinic/"/>
@@ -173,7 +173,7 @@
   </url>
   <url>
     <loc>https://riahn-balsan.kr/en/clinic/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/clinic/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/clinic/"/>
@@ -183,7 +183,7 @@
   </url>
   <url>
     <loc>https://riahn-balsan.kr/ja/clinic/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/clinic/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/clinic/"/>
@@ -193,7 +193,7 @@
   </url>
   <url>
     <loc>https://riahn-balsan.kr/zh/clinic/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/clinic/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/clinic/"/>
@@ -203,7 +203,7 @@
   </url>
   <url>
     <loc>https://riahn-balsan.kr/designers/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/designers/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/designers/"/>
@@ -213,7 +213,7 @@
   </url>
   <url>
     <loc>https://riahn-balsan.kr/en/designers/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/designers/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/designers/"/>
@@ -223,7 +223,7 @@
   </url>
   <url>
     <loc>https://riahn-balsan.kr/ja/designers/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/designers/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/designers/"/>
@@ -233,7 +233,7 @@
   </url>
   <url>
     <loc>https://riahn-balsan.kr/zh/designers/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-balsan.kr/designers/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-balsan.kr/en/designers/"/>
